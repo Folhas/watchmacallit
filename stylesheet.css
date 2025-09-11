@@ -200,6 +200,7 @@ span {
     nav {
         position: absolute;
         display: none;
+        background-color: #04100d;
         top: 0;
         right: 0;
         width: 40%;
@@ -243,4 +244,5 @@ span {
     .home{
         gap: 4rem;
     }
+
 }
